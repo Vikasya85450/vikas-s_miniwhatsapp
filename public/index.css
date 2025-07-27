@@ -1,0 +1,17 @@
+body{
+    margin-left: 20px;
+}
+.chatbox{
+    background-color: rgb(219, 187, 179);
+    padding: 20px;
+    border-radius: 15px;
+}
+.msg{
+    background-color: rgb(113, 113, 231);
+    color: rgb(225, 222, 222);
+    padding: 15px;
+}
+.from{
+    font-weight: bold;
+    font-size: x-large;
+}
